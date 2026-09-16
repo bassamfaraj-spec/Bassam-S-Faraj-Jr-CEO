@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>Resources/Info.plist</key>
+		<data>
+		UtNo4M3jB8t6rNmSgfnp4YhKQ/E=
+		</data>
+		<key>Resources/ScheduleProviderRulesGroupA.json</key>
+		<data>
+		SdBDfpWNqp9FaIMI/Y04ICa+HAA=
+		</data>
+		<key>Resources/ScheduleProviderRulesGroupiPad.json</key>
+		<data>
+		RHgaZQDQG9ooWaib50MIkHyJnDs=
+		</data>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 10.1.0.mom</key>
+		<data>
+		kY+hs9oILFHvbd3V7YXyEp3cIaU=
+		</data>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 10.2.0.mom</key>
+		<data>
+		37RcCqTD/zjBCxG4HzD6Un2/bGU=
+		</data>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 10.4.0.mom</key>
+		<data>
+		ED9alBapsXBpCdm5ZZ+zOIBhz0c=
+		</data>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 11.3.0.mom</key>
+		<data>
+		AjRbJ4uhLteKblZS/Db8BgeEMGY=
+		</data>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 12.7.0.mom</key>
+		<data>
+		TWquLylxJe01++7XSa5zL6V7onE=
+		</data>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 12.9.0.mom</key>
+		<data>
+		70QIPpvSY3m8bDDT/x9oGjcUi8M=
+		</data>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 13.21.0.mom</key>
+		<data>
+		/yhJ4+rnxiRbmwpa3OYKyPxmGu8=
+		</data>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 14.2.0.mom</key>
+		<data>
+		hwUzUL3BZl5rt1G54gD7UCkWw/g=
+		</data>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 14.2.0.omo</key>
+		<data>
+		jfhEbAJCa+fpKb5LM4HX6rHfzKo=
+		</data>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 6.0.0-0.mom</key>
+		<data>
+		ThtvJUnQrJBCGA1zMKDxMa5wi5c=
+		</data>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 6.2.0-0.mom</key>
+		<data>
+		nOyGTLmSY0RC2a6sQxF35Eg6TEM=
+		</data>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 6.3.0-0.mom</key>
+		<data>
+		4eFBfD9kqClJ6rfccePSdJjaaXg=
+		</data>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 7.2.0-0.mom</key>
+		<data>
+		FvVOtUnkJPj/4lvoSSpHavrATTE=
+		</data>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 7.3.0-0.mom</key>
+		<data>
+		WWC0yT54eEu0LOBBHyaCadDh3+8=
+		</data>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 7.4.0-0.mom</key>
+		<data>
+		2CfsJICkFuD8ZEl9anN+B4rC7Zo=
+		</data>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 7.5.0-0.mom</key>
+		<data>
+		Z557Ium4Z0ORSqUkjLixrLIYgWY=
+		</data>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 7.6.0-0.mom</key>
+		<data>
+		Y3svv/Xm6AtMU5PIjSZQeiQwF0w=
+		</data>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 7.7.0-0.mom</key>
+		<data>
+		vBUQadw06rp+1IvjZlWDBb0GliA=
+		</data>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 7.7.2-0.mom</key>
+		<data>
+		huRHyoOPMLfKUvePdq1x5NXmSLc=
+		</data>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 7.9.0-0.mom</key>
+		<data>
+		wDLCGbtmaGYlM5jls7gkASF1qmk=
+		</data>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 8.1.0-0.mom</key>
+		<data>
+		afurb50vf5bVurtdNF7ynA4SIxc=
+		</data>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 8.2.0-0.mom</key>
+		<data>
+		USnd/BPJqiFdOZd4K3GIIDzGmAE=
+		</data>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 8.4.1-0.mom</key>
+		<data>
+		kFVHbae9c1S5+vJVOA/RjisVOsQ=
+		</data>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 8.5.0-0.mom</key>
+		<data>
+		Tb6+Mhc+jsofpTcMLr7fptB2vvI=
+		</data>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 8.7.0-0.mom</key>
+		<data>
+		L0/snrYdcU5aUaQ5I1eoy48ciWE=
+		</data>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 9.1.0.mom</key>
+		<data>
+		sO24ALapzwWr7Qn15IDPpNdI0WI=
+		</data>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 9.3.0.mom</key>
+		<data>
+		LmILzYFrDJoku3fvoYDKvj6a+bo=
+		</data>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 9.5.0.mom</key>
+		<data>
+		5hKn7TE7QvKsrgcxa5OA+kgtXjQ=
+		</data>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 9.7.0.mom</key>
+		<data>
+		5hKn7TE7QvKsrgcxa5OA+kgtXjQ=
+		</data>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 9.8.0.mom</key>
+		<data>
+		ZE1AM/la9GKW9Nx/fBVlTTW7ydI=
+		</data>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 9.9.0.mom</key>
+		<data>
+		Y8PLQq++q6X/7RGmPGy2f52Tb3s=
+		</data>
+		<key>Resources/ShazamDataModel.momd/VersionInfo.plist</key>
+		<data>
+		71SdsQJPLJCsOC5z9bdrxuqQaiI=
+		</data>
+		<key>Resources/version.plist</key>
+		<data>
+		L8DGz9AeUKn8SoVvIh2wp3j7pqw=
+		</data>
+	</dict>
+	<key>files2</key>
+	<dict>
+		<key>Resources/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UtNo4M3jB8t6rNmSgfnp4YhKQ/E=
+			</data>
+			<key>hash2</key>
+			<data>
+			VCVHDROnnS5WVtQ176cb2wY65GRDsD27fLlkT9V1Tow=
+			</data>
+		</dict>
+		<key>Resources/ScheduleProviderRulesGroupA.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SdBDfpWNqp9FaIMI/Y04ICa+HAA=
+			</data>
+			<key>hash2</key>
+			<data>
+			VRiiH2GJhcghHf9OslanU+pJcYpbA5o4eIwWc+TRqVY=
+			</data>
+		</dict>
+		<key>Resources/ScheduleProviderRulesGroupiPad.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RHgaZQDQG9ooWaib50MIkHyJnDs=
+			</data>
+			<key>hash2</key>
+			<data>
+			EbTjkZkD5vDMUi7roqlab2nGXcGfye7t+5uKjDkbkCM=
+			</data>
+		</dict>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 10.1.0.mom</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kY+hs9oILFHvbd3V7YXyEp3cIaU=
+			</data>
+			<key>hash2</key>
+			<data>
+			0DMNNJaMT+kGqHzBWdJoYgfMPigp5yXl/QKCPJUs1Dw=
+			</data>
+		</dict>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 10.2.0.mom</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			37RcCqTD/zjBCxG4HzD6Un2/bGU=
+			</data>
+			<key>hash2</key>
+			<data>
+			rLCOhD9vaAE5G8oXSEHaK24lcPur6vUUHwxua7f8n7Y=
+			</data>
+		</dict>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 10.4.0.mom</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ED9alBapsXBpCdm5ZZ+zOIBhz0c=
+			</data>
+			<key>hash2</key>
+			<data>
+			tfj4+9Ekx+Ak2V5o6lyBdxMAqzSxkw249ZQeZO0rsVw=
+			</data>
+		</dict>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 11.3.0.mom</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AjRbJ4uhLteKblZS/Db8BgeEMGY=
+			</data>
+			<key>hash2</key>
+			<data>
+			dGVOmZLEwviI1imBgBF7ylK3sYr45TkxaUgKPVp59m4=
+			</data>
+		</dict>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 12.7.0.mom</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TWquLylxJe01++7XSa5zL6V7onE=
+			</data>
+			<key>hash2</key>
+			<data>
+			C5aW1nkFVzUeOIAmspalvmjmmA40xrZMva8K6DrERyY=
+			</data>
+		</dict>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 12.9.0.mom</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			70QIPpvSY3m8bDDT/x9oGjcUi8M=
+			</data>
+			<key>hash2</key>
+			<data>
+			ogYrKKOUbigxB2ArOWV4Lf8PitCIolQRYEmLgNHIX0s=
+			</data>
+		</dict>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 13.21.0.mom</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/yhJ4+rnxiRbmwpa3OYKyPxmGu8=
+			</data>
+			<key>hash2</key>
+			<data>
+			k9oYs4Rw2+Q7WJZ0P2Svota4v0r/YJcivn5HHLMSRUM=
+			</data>
+		</dict>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 14.2.0.mom</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hwUzUL3BZl5rt1G54gD7UCkWw/g=
+			</data>
+			<key>hash2</key>
+			<data>
+			hI6MJ7RTg6BQmlKOLf9NwdrTV2KTzQwxjAzPaAEo8DI=
+			</data>
+		</dict>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 14.2.0.omo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jfhEbAJCa+fpKb5LM4HX6rHfzKo=
+			</data>
+			<key>hash2</key>
+			<data>
+			hFffxvmEzwjRfxuV8pMFzN4hJnOZvUGjKobU8irP3BQ=
+			</data>
+		</dict>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 6.0.0-0.mom</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ThtvJUnQrJBCGA1zMKDxMa5wi5c=
+			</data>
+			<key>hash2</key>
+			<data>
+			VkQ+Nxgv+OBULd27Pwuiw4CD39xK8GwxEk5dWkcDJMM=
+			</data>
+		</dict>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 6.2.0-0.mom</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nOyGTLmSY0RC2a6sQxF35Eg6TEM=
+			</data>
+			<key>hash2</key>
+			<data>
+			XlIG2gLK31MtoCa/45UWaRUoWleSGnKLJ9ee66wyolI=
+			</data>
+		</dict>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 6.3.0-0.mom</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4eFBfD9kqClJ6rfccePSdJjaaXg=
+			</data>
+			<key>hash2</key>
+			<data>
+			VFaDlFkW4vdqvx0903VztlJuqG+VQzViqpoRUgqEDAc=
+			</data>
+		</dict>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 7.2.0-0.mom</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FvVOtUnkJPj/4lvoSSpHavrATTE=
+			</data>
+			<key>hash2</key>
+			<data>
+			xCrOhnNCwsRxuWXsM+EYGaepqM26j0pAwOjRdKo4HZ8=
+			</data>
+		</dict>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 7.3.0-0.mom</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WWC0yT54eEu0LOBBHyaCadDh3+8=
+			</data>
+			<key>hash2</key>
+			<data>
+			kTpcrsBWIo65Cjpj42MmKpve9pFng39uiDuGYIE2Nbw=
+			</data>
+		</dict>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 7.4.0-0.mom</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2CfsJICkFuD8ZEl9anN+B4rC7Zo=
+			</data>
+			<key>hash2</key>
+			<data>
+			txJZWZoAfnNCRJxUg4ExFGFr0py7l2LBJ8etxzM9u4o=
+			</data>
+		</dict>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 7.5.0-0.mom</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Z557Ium4Z0ORSqUkjLixrLIYgWY=
+			</data>
+			<key>hash2</key>
+			<data>
+			FAWrMBevmKRFTSRO5k5H2psqtQ4K/KWuQCK74Xz5SCE=
+			</data>
+		</dict>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 7.6.0-0.mom</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Y3svv/Xm6AtMU5PIjSZQeiQwF0w=
+			</data>
+			<key>hash2</key>
+			<data>
+			/pCShR+ajkZNJLHcL2PMR+rWbi0VE7Yhb1HIDvrgJWo=
+			</data>
+		</dict>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 7.7.0-0.mom</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vBUQadw06rp+1IvjZlWDBb0GliA=
+			</data>
+			<key>hash2</key>
+			<data>
+			cbO6p0F0gODn7TBAlWuaAH+rj1ODWnOefJD7JHp/6lI=
+			</data>
+		</dict>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 7.7.2-0.mom</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			huRHyoOPMLfKUvePdq1x5NXmSLc=
+			</data>
+			<key>hash2</key>
+			<data>
+			/py3hz/6c6XqXfTPLuNvsKjs4NP/NWhV2E1KBdj5OZs=
+			</data>
+		</dict>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 7.9.0-0.mom</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wDLCGbtmaGYlM5jls7gkASF1qmk=
+			</data>
+			<key>hash2</key>
+			<data>
+			2NzhgcXh+pSFQeJUQX1Y/8LkdwI0+eYfZOhX5nKgF90=
+			</data>
+		</dict>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 8.1.0-0.mom</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			afurb50vf5bVurtdNF7ynA4SIxc=
+			</data>
+			<key>hash2</key>
+			<data>
+			rfbiRK6mSBZxeOWkY6T9piTFSzwBRhKUiGzH43Ub3ok=
+			</data>
+		</dict>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 8.2.0-0.mom</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			USnd/BPJqiFdOZd4K3GIIDzGmAE=
+			</data>
+			<key>hash2</key>
+			<data>
+			Des/OzD9D3GgSIdldfcOiLSVINu8uuarL+0s4G4NTQ8=
+			</data>
+		</dict>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 8.4.1-0.mom</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kFVHbae9c1S5+vJVOA/RjisVOsQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			gPiFGEZMZahPabWkSTriTJOGHxBc0QrL5F++141/1zo=
+			</data>
+		</dict>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 8.5.0-0.mom</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Tb6+Mhc+jsofpTcMLr7fptB2vvI=
+			</data>
+			<key>hash2</key>
+			<data>
+			+GbvAZzx3LFXnrHcUZpOdiJnhTeGtEfyH02ik+v6B28=
+			</data>
+		</dict>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 8.7.0-0.mom</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			L0/snrYdcU5aUaQ5I1eoy48ciWE=
+			</data>
+			<key>hash2</key>
+			<data>
+			x/PkEPjNkMh9vxXfECzptCb74RIKgUcGoPpwuPnjix8=
+			</data>
+		</dict>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 9.1.0.mom</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sO24ALapzwWr7Qn15IDPpNdI0WI=
+			</data>
+			<key>hash2</key>
+			<data>
+			hBGFBsLyNEOD1swgUimthJr98FKZj64+mgmU9ZY5aoQ=
+			</data>
+		</dict>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 9.3.0.mom</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LmILzYFrDJoku3fvoYDKvj6a+bo=
+			</data>
+			<key>hash2</key>
+			<data>
+			8m+Z1AyWjzKLTw/KtGLI93nj1MNbUiWiuSWjmpMNlSY=
+			</data>
+		</dict>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 9.5.0.mom</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5hKn7TE7QvKsrgcxa5OA+kgtXjQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			XqD0ViWvYWOirs2Onxv2zU0Kn7Ik7t+64ruBVe+c4G4=
+			</data>
+		</dict>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 9.7.0.mom</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5hKn7TE7QvKsrgcxa5OA+kgtXjQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			XqD0ViWvYWOirs2Onxv2zU0Kn7Ik7t+64ruBVe+c4G4=
+			</data>
+		</dict>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 9.8.0.mom</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZE1AM/la9GKW9Nx/fBVlTTW7ydI=
+			</data>
+			<key>hash2</key>
+			<data>
+			jN20hsTHWwAwGUZ/oYix8+GlmLKNQuXXirmdOmf4R9I=
+			</data>
+		</dict>
+		<key>Resources/ShazamDataModel.momd/ShazamDataModel 9.9.0.mom</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Y8PLQq++q6X/7RGmPGy2f52Tb3s=
+			</data>
+			<key>hash2</key>
+			<data>
+			BB4n6e4rYsh6YO+hK77rjTSDVk787kqOENMd913nJuU=
+			</data>
+		</dict>
+		<key>Resources/ShazamDataModel.momd/VersionInfo.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			71SdsQJPLJCsOC5z9bdrxuqQaiI=
+			</data>
+			<key>hash2</key>
+			<data>
+			Y9NQQKQItgjYjy1PZv7eqjLQTxHpbKHgQeHEeH+/ZtQ=
+			</data>
+		</dict>
+		<key>Resources/version.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			L8DGz9AeUKn8SoVvIh2wp3j7pqw=
+			</data>
+			<key>hash2</key>
+			<data>
+			7qj8rJ0j8StO6VF1PH427xVPEAEKbUNnKSN5ukr5qns=
+			</data>
+		</dict>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>^Resources/</key>
+		<true/>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Resources/Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^version.plist$</key>
+		<true/>
+	</dict>
+	<key>rules2</key>
+	<dict>
+		<key>.*\.dSYM($|/)</key>
+		<dict>
+			<key>weight</key>
+			<real>11</real>
+		</dict>
+		<key>^(.*/)?\.DS_Store$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>2000</real>
+		</dict>
+		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^.*</key>
+		<true/>
+		<key>^Info\.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^PkgInfo$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Resources/Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^[^/]+$</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^embedded\.provisionprofile$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^version\.plist$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

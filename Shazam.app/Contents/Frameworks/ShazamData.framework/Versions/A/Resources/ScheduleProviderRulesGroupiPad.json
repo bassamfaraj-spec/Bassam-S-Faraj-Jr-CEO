@@ -1,0 +1,110 @@
+{
+    "schedules": {
+
+        "com.shazam.schedule.welcome": {},
+        
+        "com.shazam.schedule.iPadFirstUse": {
+
+            "blocks":"sessionPopups"
+        },
+
+        "com.shazam.schedule.popup.addToPlaylist": {
+
+            "blocks":"sessionPopups",
+            "legacyKey": "kOverlayPopoverStoreKey_3"
+        },
+
+        "com.shazam.schedule.appleMusicOverlay": {
+
+            "blocks":"sessionPopups",
+            "legacyKey": "kHasShownBeatsOverlay"
+        },
+
+        "com.shazam.schedule.popup.streamingPartnersTooltip": {
+
+            "blocks":"sessionPopups",
+            "legacyKey": "SHTooltipTypeConnectToStreamingPartnersTooltip-4"
+        },
+
+        "com.shazam.schedule.fullScreenPlayerEducation": {
+
+            "blocks":"sessionPopups",
+            "legacyKey": "kUserHasViewedPlayerEducationOverlay"
+        },
+
+        "com.shazam.schedule.appRating": {
+
+            "blocks":"sessionPopups",
+            "legacyKey": "kHasRatedApp"
+        },
+
+        "com.shazam.schedule.microphoneInterstitialPermission": {
+
+            "repeatInterval": -1
+        },
+
+        "com.shazam.schedule.microphonePermission": {
+
+            "repeatInterval": -1,
+            "blocks":"sessionPopups"
+        },
+
+        "com.shazam.schedule.locationPermission": {
+
+            "blocks":"sessionPopups"
+        },
+
+        "com.shazam.schedule.notificationsPermission": {
+
+            "blocks":"sessionPopups"
+        },
+
+        "com.shazam.schedule.applemusic.upsell": {
+            "repeatInterval": 14,
+            "blocks":"sessionPopups"
+        },
+
+        "com.shazam.schedule.playall.upsell": {
+            "blocks":"sessionPopups"
+        },
+        
+        "com.shazam.schedule.screenshotEducation" : {},
+        
+        "com.shazam.schedule.myshazam.signin" : { "repeatInterval": 30 },
+        
+        "com.shazam.schedule.myshazam.upsell" : { "repeatInterval": 30 },
+        
+        "com.shazam.schedule.myshazam.lastshazam" : { "repeatInterval": -1 },
+        
+        "com.shazam.schedule.myshazam.rememberthis" : { "repeatInterval": -1 },
+        
+        "com.shazam.schedule.myshazam.browsemenu" : { "repeatInterval": -1 },
+                
+        "com.shazam.schedule.myshazam.rerun" : { "repeatInterval": -1 },
+        
+        "com.shazam.schedule.streamingservicesyncshazamscard" : { "repeatInterval": -1 },
+        
+        "com.shazam.schedule.highlights.upsellcard" : { "repeatInterval": -1 },
+        
+        "com.shazam.schedule.myshazam.librarysync.existingAnonymousUserMigration": {
+            "repeatInterval": -1
+        },
+        "com.shazam.schedule.myshazam.librarysync.legacyTagSyncUserMigration": {
+            "repeatInterval": -1
+        }
+    },
+
+    "queues": {
+
+        "toolTips": ["com.shazam.schedule.appleMusicOverlay", "com.shazam.schedule.popup.addToPlaylist", "com.shazam.schedule.popup.streamingPartnersTooltip"],
+        "permissionDialogues": ["com.shazam.schedule.microphonePermission",
+                                "com.shazam.schedule.locationPermission",
+                                "com.shazam.schedule.notificationsPermission"]
+    },
+
+    "groups": {
+
+        "sessionPopups": ["com.shazam.schedule.locationPermission", "com.shazam.schedule.notificationsPermission", "com.shazam.schedule.popup.addToPlaylist", "com.shazam.schedule.popup.streamingPartnersTooltip"]
+    }
+
+}

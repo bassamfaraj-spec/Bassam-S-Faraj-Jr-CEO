@@ -1,0 +1,141 @@
+[
+    {
+        "idiom" : "universal",
+        "platform" : "watchos",
+        "scale" : "2x",
+        "size" : "22x22",
+        "filename" : "watchOS_appicon_22pt@2x.png"
+    },
+    {
+        "idiom" : "universal",
+        "platform" : "watchos",
+        "scale" : "2x",
+        "size" : "24x24",
+        "filename" : "watchOS_appicon_24pt@2x.png"
+    },
+    {
+        "idiom" : "universal",
+        "platform" : "watchos",
+        "scale" : "2x",
+        "size" : "27.5x27.5",
+        "filename" : "watchOS_appicon_27.5pt@2x.png"
+    },
+    {
+        "idiom" : "universal",
+        "platform" : "watchos",
+        "scale" : "2x",
+        "size" : "29x29",
+        "filename" : "watchOS_appicon_29pt@2x.png"
+    },
+    {
+        "idiom" : "universal",
+        "platform" : "watchos",
+        "scale" : "2x",
+        "size" : "30x30",
+        "filename" : "watchOS_appicon_30pt@2x.png"
+    },
+    {
+        "idiom" : "universal",
+        "platform" : "watchos",
+        "scale" : "2x",
+        "size" : "32x32",
+        "filename" : "watchOS_appicon_32pt@2x.png"
+    },
+    {
+        "idiom" : "universal",
+        "platform" : "watchos",
+        "scale" : "2x",
+        "size" : "33x33",
+        "filename" : "watchOS_appicon_33pt@2x.png"
+    },
+    {
+        "idiom" : "universal",
+        "platform" : "watchos",
+        "scale" : "2x",
+        "size" : "40x40",
+        "filename" : "watchOS_appicon_40pt@2x.png"
+    },
+    {
+        "idiom" : "universal",
+        "platform" : "watchos",
+        "scale" : "2x",
+        "size" : "43.5x43.5",
+        "filename" : "watchOS_appicon_43.5pt@2x.png"
+    },
+    {
+        "idiom" : "universal",
+        "platform" : "watchos",
+        "scale" : "2x",
+        "size" : "44x44",
+        "filename" : "watchOS_appicon_44pt@2x.png"
+    },
+    {
+        "idiom" : "universal",
+        "platform" : "watchos",
+        "scale" : "2x",
+        "size" : "46x46",
+        "filename" : "watchOS_appicon_46pt@2x.png"
+    },
+    {
+        "idiom" : "universal",
+        "platform" : "watchos",
+        "scale" : "2x",
+        "size" : "50x50",
+        "filename" : "watchOS_appicon_50pt@2x.png"
+    },
+    {
+        "idiom" : "universal",
+        "platform" : "watchos",
+        "scale" : "2x",
+        "size" : "51x51",
+        "filename" : "watchOS_appicon_51pt@2x.png"
+    },
+    {
+        "idiom" : "universal",
+        "platform" : "watchos",
+        "scale" : "2x",
+        "size" : "54x54",
+        "filename" : "watchOS_appicon_54pt@2x.png"
+    },
+    {
+        "idiom" : "universal",
+        "platform" : "watchos",
+        "scale" : "2x",
+        "size" : "86x86",
+        "filename" : "watchOS_appicon_86pt@2x.png"
+    },
+    {
+        "idiom" : "universal",
+        "platform" : "watchos",
+        "scale" : "2x",
+        "size" : "98x98",
+        "filename" : "watchOS_appicon_98pt@2x.png"
+    },
+    {
+        "idiom" : "universal",
+        "platform" : "watchos",
+        "scale" : "2x",
+        "size" : "108x108",
+        "filename" : "watchOS_appicon_108pt@2x.png"
+    },
+    {
+        "idiom" : "universal",
+        "platform" : "watchos",
+        "scale" : "2x",
+        "size" : "117x117",
+        "filename" : "watchOS_appicon_117pt@2x.png"
+    },
+    {
+        "idiom" : "universal",
+        "platform" : "watchos",
+        "scale" : "2x",
+        "size" : "129x129",
+        "filename" : "watchOS_appicon_129pt@2x.png"
+    },
+    {
+        "idiom" : "universal",
+        "platform" : "watchos",
+        "size" : "1024x1024",
+        "filename" : "watchOS_appicon_1024pt.png"
+    }
+]

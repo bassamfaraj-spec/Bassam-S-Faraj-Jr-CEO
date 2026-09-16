@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>24F74</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Swiftify</string>
+	<key>CFBundleExecutable</key>
+	<string>Swiftify</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.Swiftify.Xcode.Extension</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Swiftify</string>
+	<key>CFBundlePackageType</key>
+	<string>XPC!</string>
+	<key>CFBundleShortVersionString</key>
+	<string>6.2</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>261</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>24F74</string>
+	<key>DTPlatformName</key>
+	<string>macosx</string>
+	<key>DTPlatformVersion</key>
+	<string>15.5</string>
+	<key>DTSDKBuild</key>
+	<string>24F74</string>
+	<key>DTSDKName</key>
+	<string>macosx15.5</string>
+	<key>DTXcode</key>
+	<string>1640</string>
+	<key>DTXcodeBuild</key>
+	<string>16F6</string>
+	<key>Display name</key>
+	<string>Swiftify Extension</string>
+	<key>Fabric</key>
+	<dict>
+		<key>APIKey</key>
+		<string>3c078ab602536707f70df529797509db922bd136</string>
+		<key>Kits</key>
+		<array>
+			<dict>
+				<key>KitInfo</key>
+				<dict/>
+				<key>KitName</key>
+				<string>Crashlytics</string>
+			</dict>
+		</array>
+	</dict>
+	<key>LSMinimumSystemVersion</key>
+	<string>13.0</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsLocalNetworking</key>
+		<true/>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>swiftify.com</key>
+			<dict>
+				<key>NSIncludesSubdomains</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+	<key>NSExtension</key>
+	<dict>
+		<key>NSExtensionAttributes</key>
+		<dict>
+			<key>XCSourceEditorCommandDefinitions</key>
+			<array>
+				<dict>
+					<key>XCSourceEditorCommandClassName</key>
+					<string>Swiftify.ConvertSelectionCommand</string>
+					<key>XCSourceEditorCommandIdentifier</key>
+					<string>com.Swiftify.Xcode.Extension.Commands.ConvertSelectionCommand</string>
+					<key>XCSourceEditorCommandName</key>
+					<string>Convert Selection to Swift</string>
+				</dict>
+				<dict>
+					<key>XCSourceEditorCommandClassName</key>
+					<string>Swiftify.ConvertFileCommand</string>
+					<key>XCSourceEditorCommandIdentifier</key>
+					<string>com.Swiftify.Xcode.Extension.Commands.ConvertFileCommand</string>
+					<key>XCSourceEditorCommandName</key>
+					<string>Convert File to Swift</string>
+				</dict>
+				<dict>
+					<key>XCSourceEditorCommandClassName</key>
+					<string>Swiftify.ConvertClipboardCommand</string>
+					<key>XCSourceEditorCommandIdentifier</key>
+					<string>com.Swiftify.Xcode.Extension.Commands.ConvertClipboardCommand</string>
+					<key>XCSourceEditorCommandName</key>
+					<string>Paste as Swift</string>
+				</dict>
+			</array>
+			<key>XCSourceEditorExtensionPrincipalClass</key>
+			<string>Swiftify.SourceEditorExtension</string>
+		</dict>
+		<key>NSExtensionPointIdentifier</key>
+		<string>com.apple.dt.Xcode.extension.source-editor</string>
+	</dict>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2014-2024 Swiftify. All rights reserved.</string>
+	<key>NSPrincipalClass</key>
+	<string>SwiftifyCommon.SwiftifyApplication</string>
+	<key>SentryDSN</key>
+	<string>https://21d691551f35e8e19b3f779f2482f3a3@o4508720078127104.ingest.us.sentry.io/4508695008509952</string>
+</dict>
+</plist>

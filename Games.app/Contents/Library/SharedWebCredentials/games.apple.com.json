@@ -1,0 +1,22 @@
+{
+    "applinks": {
+        "details": [{
+            "appID": "com.apple.games",
+            "components": [
+                {
+                    "/": "/??/activity/start/*",
+                    "exclude": true
+                },
+                {
+                    "/": "/??_??/activity/start/*",
+                    "exclude": true
+                },
+                {
+                    "/": "*",
+                    "comment": "Matches any URL with a path that starts with /*, eg. {cc} can be ae, at, etc"
+                },
+            ],
+            "alwaysEnabled": true
+        }]
+    }
+}

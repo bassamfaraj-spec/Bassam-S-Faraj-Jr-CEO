@@ -1,0 +1,62 @@
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+            :root {
+                color-scheme: light dark;
+            }
+            html {
+                -webkit-text-size-adjust: 100%;
+            }
+            body {
+                margin-top: 12px;
+                margin-bottom: 12px;
+                margin-left: 16px;
+                margin-right: 16px;
+
+                background-color: var(--system-primary-background);
+
+                font-family: -apple-system;
+                font: -apple-system-body;
+            }
+            h1 {
+                font: -apple-system-title0;
+                font-weight: bold;
+            }
+            h2 {
+                font: -apple-system-title1;
+                font-weight: bold;
+            }
+            h3 {
+                font: -apple-system-title2;
+                font-weight: bold;
+            }
+            h4 {
+                font: -apple-system-headline;
+            }
+            a {
+                text-decoration: none;
+            }
+            a:hover {
+                text-decoration: underline;
+            }
+            :root {
+                color-scheme: light dark;
+                --system-primary-background: -apple-system-secondary-grouped-background;
+                --link-color: rgb(0, 122, 255);
+            }
+            @media(prefers-color-scheme: dark) {
+                :root {
+                    --link-color: rgb(10, 132, 255);
+                }
+            }
+            body a, body a:link, body a:visited {
+                color: var(--link-color);
+            }
+        </style>
+    </head>
+    <body>
+        {CONTENTS_PLACEHOLDER}
+    </body>
+</html>
+

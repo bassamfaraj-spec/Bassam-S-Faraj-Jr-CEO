@@ -1,0 +1,1113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>Resources/AppIcon.icns</key>
+		<data>
+		dguue10XO1ls6lNs1P+MqavhCU4=
+		</data>
+		<key>Resources/Assets.car</key>
+		<data>
+		tWAo6HxduDbiGjz1ApKOymHKFzM=
+		</data>
+		<key>Resources/Main.storyboardc/7PR-e3-Uq6-view-Btu-E2-ggq.nib</key>
+		<data>
+		XqjoiYvEYiM/eJv65P7DLxCtYFM=
+		</data>
+		<key>Resources/Main.storyboardc/Info.plist</key>
+		<data>
+		zWsCyC+KG0wI8M8cJRwXHoU1I48=
+		</data>
+		<key>Resources/Main.storyboardc/MainMenu.nib</key>
+		<data>
+		oXu6ej9Z90S0KKaFbcvxkozvUq0=
+		</data>
+		<key>Resources/Main.storyboardc/ProgressWindow.nib</key>
+		<data>
+		CcfBfS6W72cXMlZJKvxAT53Lu50=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyCommon.framework/Versions/A/Resources/Assets.car</key>
+		<data>
+		+FxVrYajk9inVoxRy1y0T02BpXs=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyCommon.framework/Versions/A/Resources/Info.plist</key>
+		<data>
+		HMKbxP/0a0g4NlxwTdacBUQzOH8=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyCommon.framework/Versions/A/Resources/UI.About.storyboardc/Info.plist</key>
+		<data>
+		ejlYitSsOmufJVIWFQV9Vx/gk3w=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyCommon.framework/Versions/A/Resources/UI.About.storyboardc/NSWindowController-egK-pC-OIp.nib</key>
+		<data>
+		ZkQTFGd5yyFCjsJ7okhmRUzGdPE=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyCommon.framework/Versions/A/Resources/UI.About.storyboardc/QSe-ha-OAa-view-KdV-NP-pSU.nib</key>
+		<data>
+		QVV8fbtx280iSU8cXeQSMMURVlk=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyCommon.framework/Versions/A/SwiftifyCommon</key>
+		<data>
+		UqwoCl21EV/JpwwxASeClviTGFI=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyCommon.framework/Versions/A/_CodeSignature/CodeResources</key>
+		<data>
+		y1q+ThLs+6Ks55nHQtzUEUDv0+E=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyInstaller.framework/Versions/A/Resources/Assets.car</key>
+		<data>
+		dD1q5YaVPe7UwHRXZoGVSMakpqU=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyInstaller.framework/Versions/A/Resources/Base.lproj/Main.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			q1DP79BFNaC6jQMlAF310GOAFZI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyInstaller.framework/Versions/A/Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2g+xwYFj3uUKw28Y0WjfTRSu/X4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyInstaller.framework/Versions/A/Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			02BFeJN8yG5XrkToJYR8lVQNvkQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyInstaller.framework/Versions/A/Resources/Base.lproj/Main.storyboardc/NcZ-7a-bZM-view-8tT-dV-Ndm.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fCDwDG4X2HNRTDlLnm6rH7AOGnY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyInstaller.framework/Versions/A/Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			si6qXwwxsAsdHY05csdb0n7qX5A=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyInstaller.framework/Versions/A/Resources/Base.lproj/Main.storyboardc/oAn-NA-bVp-view-jXv-2m-7Hf.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7reyLt95WkvYnRZ/mGvqjSEhu0Y=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyInstaller.framework/Versions/A/Resources/Info.plist</key>
+		<data>
+		G2lsGiHQ/TW6xQu7RDsB8wxLQ5g=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyInstaller.framework/Versions/A/SwiftifyInstaller</key>
+		<data>
+		kcg/Tg+JtL+Y1N/DUKLCRAIVX18=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyInstaller.framework/Versions/A/_CodeSignature/CodeResources</key>
+		<data>
+		nD0Dy+krbHzS91NJAFq+0l/x0wg=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Info.plist</key>
+		<data>
+		LHAJynAD6tWKBz8I8oqGsl0t0RY=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Frameworks/SwiftifyCommon.framework/Versions/A/Resources/Assets.car</key>
+		<data>
+		+FxVrYajk9inVoxRy1y0T02BpXs=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Frameworks/SwiftifyCommon.framework/Versions/A/Resources/Info.plist</key>
+		<data>
+		HMKbxP/0a0g4NlxwTdacBUQzOH8=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Frameworks/SwiftifyCommon.framework/Versions/A/Resources/UI.About.storyboardc/Info.plist</key>
+		<data>
+		ejlYitSsOmufJVIWFQV9Vx/gk3w=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Frameworks/SwiftifyCommon.framework/Versions/A/Resources/UI.About.storyboardc/NSWindowController-egK-pC-OIp.nib</key>
+		<data>
+		ZkQTFGd5yyFCjsJ7okhmRUzGdPE=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Frameworks/SwiftifyCommon.framework/Versions/A/Resources/UI.About.storyboardc/QSe-ha-OAa-view-KdV-NP-pSU.nib</key>
+		<data>
+		QVV8fbtx280iSU8cXeQSMMURVlk=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Frameworks/SwiftifyCommon.framework/Versions/A/SwiftifyCommon</key>
+		<data>
+		UqwoCl21EV/JpwwxASeClviTGFI=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Frameworks/SwiftifyCommon.framework/Versions/A/_CodeSignature/CodeResources</key>
+		<data>
+		y1q+ThLs+6Ks55nHQtzUEUDv0+E=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Info.plist</key>
+		<data>
+		5TeHDpm8JVdY/Xdkqhz12MQUhbw=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Library/LoginItems/Swiftify Service Online Killer.app/Contents/Info.plist</key>
+		<data>
+		Cry5bwuqZ73MaVzKX3+3GQkhUxI=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Library/LoginItems/Swiftify Service Online Killer.app/Contents/MacOS/Swiftify Service Online Killer</key>
+		<data>
+		KkKS+YcMY9kB/E5nPNNd8J5BNPc=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Library/LoginItems/Swiftify Service Online Killer.app/Contents/PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Library/LoginItems/Swiftify Service Online Killer.app/Contents/Resources/AppIcon.icns</key>
+		<data>
+		dguue10XO1ls6lNs1P+MqavhCU4=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Library/LoginItems/Swiftify Service Online Killer.app/Contents/Resources/Assets.car</key>
+		<data>
+		1jEKQ5fe3HzQLh2MClWT/dCsZAs=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Library/LoginItems/Swiftify Service Online Killer.app/Contents/Resources/Base.lproj/Main.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XEeVISu8i0+31Ci0p4QFn2rkbDo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Library/LoginItems/Swiftify Service Online Killer.app/Contents/Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QFegro/GbquI8M1BVNSvW/PTEz0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Library/LoginItems/Swiftify Service Online Killer.app/Contents/Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			S7Cq6kcwusinDxg6RFUBpfFyInM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Library/LoginItems/Swiftify Service Online Killer.app/Contents/Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dcwLIQgURpAxDkq7VP/MHVMjaZg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Library/LoginItems/Swiftify Service Online Killer.app/Contents/_CodeSignature/CodeResources</key>
+		<data>
+		Y1gRUA6I/B9PwHC26fM9zr5C4io=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/MacOS/Swiftify Service</key>
+		<data>
+		iyLTwwFAdgeeF7Ct2EF0RmFveNU=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Resources/AppIcon.icns</key>
+		<data>
+		dguue10XO1ls6lNs1P+MqavhCU4=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Resources/Assets.car</key>
+		<data>
+		1jEKQ5fe3HzQLh2MClWT/dCsZAs=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Resources/Base.lproj/Main.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			M1rS+Tcas1ZdM4/iibTlduTJ22M=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pqWheJOuaWLrwSyc/ieA1AHjSBg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/_CodeSignature/CodeResources</key>
+		<data>
+		d1iIGTJ0JuOZH1QlvY4ZTSN4XQ8=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/MacOS/Swiftify Text Service</key>
+		<data>
+		dk8mS8C8BJ4PzJMl4dVIJ7+2BeM=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Resources/AppIcon.icns</key>
+		<data>
+		dguue10XO1ls6lNs1P+MqavhCU4=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Resources/Assets.car</key>
+		<data>
+		1jEKQ5fe3HzQLh2MClWT/dCsZAs=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Resources/Main.storyboardc/Info.plist</key>
+		<data>
+		M1rS+Tcas1ZdM4/iibTlduTJ22M=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/Resources/Main.storyboardc/MainMenu.nib</key>
+		<data>
+		GG6MlyCRIMLZ8UShCeHtJBl7s8M=
+		</data>
+		<key>Resources/Swiftify Text Service.app/Contents/_CodeSignature/CodeResources</key>
+		<data>
+		34FMjdxip/0qzJ7uI5XV0zLONE0=
+		</data>
+	</dict>
+	<key>files2</key>
+	<dict>
+		<key>Frameworks/SwiftifyCommon.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			C4H/m28cdCwxvA3iFD3fyvrU2QY=
+			</data>
+			<key>requirement</key>
+			<string>(anchor apple generic and certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "7Q5KZBFM79") and identifier "com.Swiftify.Xcode.Common"</string>
+		</dict>
+		<key>Frameworks/SwiftifyInstaller.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			f30F4IPA4aEjqyE7pKRZnEsOp8g=
+			</data>
+			<key>requirement</key>
+			<string>(anchor apple generic and certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "7Q5KZBFM79") and identifier "com.Swiftify.Xcode.Swiftify-Installer-Framework"</string>
+		</dict>
+		<key>Library/LoginItems/Swiftify Service.app</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			JhNt1yv00+t6HsyBYlZpqScDvV0=
+			</data>
+			<key>requirement</key>
+			<string>(anchor apple generic and certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "7Q5KZBFM79") and identifier "com.Swiftify.ServiceOnline.v3"</string>
+		</dict>
+		<key>Resources/AppIcon.icns</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dguue10XO1ls6lNs1P+MqavhCU4=
+			</data>
+			<key>hash2</key>
+			<data>
+			IoEagiHxv+OKD+h8ghu+oawfW+kUjnMmd2wrNz7ds44=
+			</data>
+		</dict>
+		<key>Resources/Assets.car</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tWAo6HxduDbiGjz1ApKOymHKFzM=
+			</data>
+			<key>hash2</key>
+			<data>
+			/mdDVtxQj6xBEwhM/EupHI0cTrhNu2xM3km84E1ytO0=
+			</data>
+		</dict>
+		<key>Resources/Main.storyboardc/7PR-e3-Uq6-view-Btu-E2-ggq.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XqjoiYvEYiM/eJv65P7DLxCtYFM=
+			</data>
+			<key>hash2</key>
+			<data>
+			nCSyrEilsGo/8ZUpAaAL3nF1LZiwjpTD+o3BBWDsGgc=
+			</data>
+		</dict>
+		<key>Resources/Main.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zWsCyC+KG0wI8M8cJRwXHoU1I48=
+			</data>
+			<key>hash2</key>
+			<data>
+			tAG2hHmiaEWCO/a+ZXwO2ZS+Wa17O6Pc5ezFXDQIjt0=
+			</data>
+		</dict>
+		<key>Resources/Main.storyboardc/MainMenu.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oXu6ej9Z90S0KKaFbcvxkozvUq0=
+			</data>
+			<key>hash2</key>
+			<data>
+			nwvtiycsAkC+2vyvWCLTwFtmhxG6sSkWvdB+KbDK0yU=
+			</data>
+		</dict>
+		<key>Resources/Main.storyboardc/ProgressWindow.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CcfBfS6W72cXMlZJKvxAT53Lu50=
+			</data>
+			<key>hash2</key>
+			<data>
+			PEmKCrpLPbm1bH9PlS21ojD30wjjx9fsmeEkEHTfUjw=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyCommon.framework/Resources</key>
+		<dict>
+			<key>symlink</key>
+			<string>Versions/Current/Resources</string>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyCommon.framework/SwiftifyCommon</key>
+		<dict>
+			<key>symlink</key>
+			<string>Versions/Current/SwiftifyCommon</string>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyCommon.framework/Versions/A/Resources/Assets.car</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+FxVrYajk9inVoxRy1y0T02BpXs=
+			</data>
+			<key>hash2</key>
+			<data>
+			M6jL64CIOKSCoReB7KtgE4e6Uik1Rrc2ZJlgmCy3Z+s=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyCommon.framework/Versions/A/Resources/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HMKbxP/0a0g4NlxwTdacBUQzOH8=
+			</data>
+			<key>hash2</key>
+			<data>
+			h3dQLSOt1YSz8p35N5eSDN7fgfgtHW9nPbvKWV6EZXQ=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyCommon.framework/Versions/A/Resources/UI.About.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ejlYitSsOmufJVIWFQV9Vx/gk3w=
+			</data>
+			<key>hash2</key>
+			<data>
+			vYVosXtRyqWY0TQ7N7hxFkUMZlzsDrjTXMpJmGerJr4=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyCommon.framework/Versions/A/Resources/UI.About.storyboardc/NSWindowController-egK-pC-OIp.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZkQTFGd5yyFCjsJ7okhmRUzGdPE=
+			</data>
+			<key>hash2</key>
+			<data>
+			WCsVr8s3gb0SvBnWcwo7R+TAXvL+qiuPlmBP7ySsrOY=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyCommon.framework/Versions/A/Resources/UI.About.storyboardc/QSe-ha-OAa-view-KdV-NP-pSU.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QVV8fbtx280iSU8cXeQSMMURVlk=
+			</data>
+			<key>hash2</key>
+			<data>
+			H7YLnZulu33ggFB8st3CmvHavXPWJD+25UTPwNx2vP8=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyCommon.framework/Versions/A/SwiftifyCommon</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UqwoCl21EV/JpwwxASeClviTGFI=
+			</data>
+			<key>hash2</key>
+			<data>
+			d1f+e4RsTP76Uqgeb7QUHeV8dyja2tIjcV9K/FEhZ4c=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyCommon.framework/Versions/A/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			y1q+ThLs+6Ks55nHQtzUEUDv0+E=
+			</data>
+			<key>hash2</key>
+			<data>
+			/D4bQAhWrkmERDV8OTFokm1h9nHzbxOuj5Z+qiPRhpc=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyCommon.framework/Versions/Current</key>
+		<dict>
+			<key>symlink</key>
+			<string>A</string>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyInstaller.framework/Resources</key>
+		<dict>
+			<key>symlink</key>
+			<string>Versions/Current/Resources</string>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyInstaller.framework/SwiftifyInstaller</key>
+		<dict>
+			<key>symlink</key>
+			<string>Versions/Current/SwiftifyInstaller</string>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyInstaller.framework/Versions/A/Resources/Assets.car</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dD1q5YaVPe7UwHRXZoGVSMakpqU=
+			</data>
+			<key>hash2</key>
+			<data>
+			rv9uBlp8+YrxifHIDMs5+/l6l9xJSj+GKROmVD8qMqo=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyInstaller.framework/Versions/A/Resources/Base.lproj/Main.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			q1DP79BFNaC6jQMlAF310GOAFZI=
+			</data>
+			<key>hash2</key>
+			<data>
+			iDNjNhTbdeHBbTMC3eniulmxTyfQBrzLtCRLkVB+MuI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyInstaller.framework/Versions/A/Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2g+xwYFj3uUKw28Y0WjfTRSu/X4=
+			</data>
+			<key>hash2</key>
+			<data>
+			S3YmnVLoFxNRgt79GnzKnjsgnDkpBcEmxReyDFYfY/4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyInstaller.framework/Versions/A/Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			02BFeJN8yG5XrkToJYR8lVQNvkQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			lrN8ek9+g2qOmd1+9vGh8wpatf5fw7adYzT2dExtTq4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyInstaller.framework/Versions/A/Resources/Base.lproj/Main.storyboardc/NcZ-7a-bZM-view-8tT-dV-Ndm.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fCDwDG4X2HNRTDlLnm6rH7AOGnY=
+			</data>
+			<key>hash2</key>
+			<data>
+			XX1k5p7DGSNJOQ+QdAhAROC0m/sHXgrumS4r7895Dvw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyInstaller.framework/Versions/A/Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			si6qXwwxsAsdHY05csdb0n7qX5A=
+			</data>
+			<key>hash2</key>
+			<data>
+			Hv7nPgE+Fjj2KdqiH3vBnnrzHOBz3lAR+Ey5Lbne1Oc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyInstaller.framework/Versions/A/Resources/Base.lproj/Main.storyboardc/oAn-NA-bVp-view-jXv-2m-7Hf.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7reyLt95WkvYnRZ/mGvqjSEhu0Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			hKZ/r0iyp+Q4as1NMIRY/529F7v/NR5N8euEgDYUBvo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyInstaller.framework/Versions/A/Resources/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			G2lsGiHQ/TW6xQu7RDsB8wxLQ5g=
+			</data>
+			<key>hash2</key>
+			<data>
+			PwnjHfqDXE6Tj3e2GzRbXgAf6I359EyixwKq4CkbYps=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyInstaller.framework/Versions/A/SwiftifyInstaller</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kcg/Tg+JtL+Y1N/DUKLCRAIVX18=
+			</data>
+			<key>hash2</key>
+			<data>
+			pYpBMO3yWvbgdwxDxCJ8ovDvA3QmgfqQwq2w7zauPuM=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyInstaller.framework/Versions/A/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nD0Dy+krbHzS91NJAFq+0l/x0wg=
+			</data>
+			<key>hash2</key>
+			<data>
+			uhpb6QRH91tkGOKr43/OnXOh5LoKjPDNf12auPjplQY=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Frameworks/SwiftifyInstaller.framework/Versions/Current</key>
+		<dict>
+			<key>symlink</key>
+			<string>A</string>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LHAJynAD6tWKBz8I8oqGsl0t0RY=
+			</data>
+			<key>hash2</key>
+			<data>
+			yGrjXsu0uetiw8dyGlV/gCyTP7HHk01zPbzEOpvUcpE=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Frameworks/SwiftifyCommon.framework/Resources</key>
+		<dict>
+			<key>symlink</key>
+			<string>Versions/Current/Resources</string>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Frameworks/SwiftifyCommon.framework/SwiftifyCommon</key>
+		<dict>
+			<key>symlink</key>
+			<string>Versions/Current/SwiftifyCommon</string>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Frameworks/SwiftifyCommon.framework/Versions/A/Resources/Assets.car</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+FxVrYajk9inVoxRy1y0T02BpXs=
+			</data>
+			<key>hash2</key>
+			<data>
+			M6jL64CIOKSCoReB7KtgE4e6Uik1Rrc2ZJlgmCy3Z+s=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Frameworks/SwiftifyCommon.framework/Versions/A/Resources/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HMKbxP/0a0g4NlxwTdacBUQzOH8=
+			</data>
+			<key>hash2</key>
+			<data>
+			h3dQLSOt1YSz8p35N5eSDN7fgfgtHW9nPbvKWV6EZXQ=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Frameworks/SwiftifyCommon.framework/Versions/A/Resources/UI.About.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ejlYitSsOmufJVIWFQV9Vx/gk3w=
+			</data>
+			<key>hash2</key>
+			<data>
+			vYVosXtRyqWY0TQ7N7hxFkUMZlzsDrjTXMpJmGerJr4=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Frameworks/SwiftifyCommon.framework/Versions/A/Resources/UI.About.storyboardc/NSWindowController-egK-pC-OIp.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZkQTFGd5yyFCjsJ7okhmRUzGdPE=
+			</data>
+			<key>hash2</key>
+			<data>
+			WCsVr8s3gb0SvBnWcwo7R+TAXvL+qiuPlmBP7ySsrOY=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Frameworks/SwiftifyCommon.framework/Versions/A/Resources/UI.About.storyboardc/QSe-ha-OAa-view-KdV-NP-pSU.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QVV8fbtx280iSU8cXeQSMMURVlk=
+			</data>
+			<key>hash2</key>
+			<data>
+			H7YLnZulu33ggFB8st3CmvHavXPWJD+25UTPwNx2vP8=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Frameworks/SwiftifyCommon.framework/Versions/A/SwiftifyCommon</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UqwoCl21EV/JpwwxASeClviTGFI=
+			</data>
+			<key>hash2</key>
+			<data>
+			d1f+e4RsTP76Uqgeb7QUHeV8dyja2tIjcV9K/FEhZ4c=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Frameworks/SwiftifyCommon.framework/Versions/A/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			y1q+ThLs+6Ks55nHQtzUEUDv0+E=
+			</data>
+			<key>hash2</key>
+			<data>
+			/D4bQAhWrkmERDV8OTFokm1h9nHzbxOuj5Z+qiPRhpc=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Frameworks/SwiftifyCommon.framework/Versions/Current</key>
+		<dict>
+			<key>symlink</key>
+			<string>A</string>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5TeHDpm8JVdY/Xdkqhz12MQUhbw=
+			</data>
+			<key>hash2</key>
+			<data>
+			P8uPXkd7muVPMJLXRnJNphRX76M0R9ZpSkmIRihvBt4=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Library/LoginItems/Swiftify Service Online Killer.app/Contents/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Cry5bwuqZ73MaVzKX3+3GQkhUxI=
+			</data>
+			<key>hash2</key>
+			<data>
+			HlBKYZKY8FupzSViYfhNVq2I8xXeHQarsK6N2CBrFoc=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Library/LoginItems/Swiftify Service Online Killer.app/Contents/MacOS/Swiftify Service Online Killer</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KkKS+YcMY9kB/E5nPNNd8J5BNPc=
+			</data>
+			<key>hash2</key>
+			<data>
+			tSGiDfPALdMaeUE6taTMquthve87wycBusHJ86eVY2w=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Library/LoginItems/Swiftify Service Online Killer.app/Contents/PkgInfo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			n57qDP4tZfLD1rCS43W0B4LQjzE=
+			</data>
+			<key>hash2</key>
+			<data>
+			glAhkclISwTWhTdPmHmgBmBpxJuKyuegSwHTjQfo7KA=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Library/LoginItems/Swiftify Service Online Killer.app/Contents/Resources/AppIcon.icns</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dguue10XO1ls6lNs1P+MqavhCU4=
+			</data>
+			<key>hash2</key>
+			<data>
+			IoEagiHxv+OKD+h8ghu+oawfW+kUjnMmd2wrNz7ds44=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Library/LoginItems/Swiftify Service Online Killer.app/Contents/Resources/Assets.car</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1jEKQ5fe3HzQLh2MClWT/dCsZAs=
+			</data>
+			<key>hash2</key>
+			<data>
+			pK/oo8VY8Bosz52Ank6zBsFGtSwRAnz6st7/QNQ5CRg=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Library/LoginItems/Swiftify Service Online Killer.app/Contents/Resources/Base.lproj/Main.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XEeVISu8i0+31Ci0p4QFn2rkbDo=
+			</data>
+			<key>hash2</key>
+			<data>
+			O1ry2C5Noy5FWD9Zn0ZiSc8TBk/ys4onVUmPe15asQY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Library/LoginItems/Swiftify Service Online Killer.app/Contents/Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QFegro/GbquI8M1BVNSvW/PTEz0=
+			</data>
+			<key>hash2</key>
+			<data>
+			gK7L19axLes9xPcM2SAF16fOEys/xzI0wdcPQQvvl/k=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Library/LoginItems/Swiftify Service Online Killer.app/Contents/Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			S7Cq6kcwusinDxg6RFUBpfFyInM=
+			</data>
+			<key>hash2</key>
+			<data>
+			Y1y4oldm7Y2RnazNZzvXhJpMc9gBxDRUGOdlD8yy90g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Library/LoginItems/Swiftify Service Online Killer.app/Contents/Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dcwLIQgURpAxDkq7VP/MHVMjaZg=
+			</data>
+			<key>hash2</key>
+			<data>
+			E5TydeWynoe7ikUTfd2H87wFEu4leIDPGUwzqgAM40o=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Library/LoginItems/Swiftify Service Online Killer.app/Contents/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Y1gRUA6I/B9PwHC26fM9zr5C4io=
+			</data>
+			<key>hash2</key>
+			<data>
+			JA0Qskkjj85+oCH6NOUkH/KXFuwY6Q4/YCKx6kt5ERE=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/MacOS/Swiftify Service</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iyLTwwFAdgeeF7Ct2EF0RmFveNU=
+			</data>
+			<key>hash2</key>
+			<data>
+			CIcCaHgEcVMyXjyfxC6p8sfwxG8NojM5uV0U5OOoh6Y=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/PkgInfo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			n57qDP4tZfLD1rCS43W0B4LQjzE=
+			</data>
+			<key>hash2</key>
+			<data>
+			glAhkclISwTWhTdPmHmgBmBpxJuKyuegSwHTjQfo7KA=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Resources/AppIcon.icns</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dguue10XO1ls6lNs1P+MqavhCU4=
+			</data>
+			<key>hash2</key>
+			<data>
+			IoEagiHxv+OKD+h8ghu+oawfW+kUjnMmd2wrNz7ds44=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Resources/Assets.car</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1jEKQ5fe3HzQLh2MClWT/dCsZAs=
+			</data>
+			<key>hash2</key>
+			<data>
+			pK/oo8VY8Bosz52Ank6zBsFGtSwRAnz6st7/QNQ5CRg=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Resources/Base.lproj/Main.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			M1rS+Tcas1ZdM4/iibTlduTJ22M=
+			</data>
+			<key>hash2</key>
+			<data>
+			6/2HagpKuzGhxFgQU55Lc/bxgR30qm5eqHSV+p9e4/4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pqWheJOuaWLrwSyc/ieA1AHjSBg=
+			</data>
+			<key>hash2</key>
+			<data>
+			vBr0+41C97YOEd5P1NM5+BWlKZrJcHSnqU1mu+w3sEI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Library/LoginItems/Swiftify Service.app/Contents/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			d1iIGTJ0JuOZH1QlvY4ZTSN4XQ8=
+			</data>
+			<key>hash2</key>
+			<data>
+			ukoHMP/k4GXvULWC8WYY4sNgx96ibVwfrImdR5yFMnM=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/MacOS/Swiftify Text Service</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dk8mS8C8BJ4PzJMl4dVIJ7+2BeM=
+			</data>
+			<key>hash2</key>
+			<data>
+			1WEx9x91E7+9aN9G29dYx33d+KIPh8pbvUA6pXZnt9s=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/PkgInfo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			n57qDP4tZfLD1rCS43W0B4LQjzE=
+			</data>
+			<key>hash2</key>
+			<data>
+			glAhkclISwTWhTdPmHmgBmBpxJuKyuegSwHTjQfo7KA=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Resources/AppIcon.icns</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dguue10XO1ls6lNs1P+MqavhCU4=
+			</data>
+			<key>hash2</key>
+			<data>
+			IoEagiHxv+OKD+h8ghu+oawfW+kUjnMmd2wrNz7ds44=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Resources/Assets.car</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1jEKQ5fe3HzQLh2MClWT/dCsZAs=
+			</data>
+			<key>hash2</key>
+			<data>
+			pK/oo8VY8Bosz52Ank6zBsFGtSwRAnz6st7/QNQ5CRg=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Resources/Main.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			M1rS+Tcas1ZdM4/iibTlduTJ22M=
+			</data>
+			<key>hash2</key>
+			<data>
+			6/2HagpKuzGhxFgQU55Lc/bxgR30qm5eqHSV+p9e4/4=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/Resources/Main.storyboardc/MainMenu.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GG6MlyCRIMLZ8UShCeHtJBl7s8M=
+			</data>
+			<key>hash2</key>
+			<data>
+			2IKojNeYekN0k3ZMuQLSsdrNUi+dOow48uIGn/oVTxo=
+			</data>
+		</dict>
+		<key>Resources/Swiftify Text Service.app/Contents/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			34FMjdxip/0qzJ7uI5XV0zLONE0=
+			</data>
+			<key>hash2</key>
+			<data>
+			ghBhu3UOMFsE66Jf2OdTD6v1e7FTP3tlq/BuEJ1qBoc=
+			</data>
+		</dict>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>^Resources/</key>
+		<true/>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Resources/Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^version.plist$</key>
+		<true/>
+	</dict>
+	<key>rules2</key>
+	<dict>
+		<key>.*\.dSYM($|/)</key>
+		<dict>
+			<key>weight</key>
+			<real>11</real>
+		</dict>
+		<key>^(.*/)?\.DS_Store$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>2000</real>
+		</dict>
+		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^.*</key>
+		<true/>
+		<key>^Info\.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^PkgInfo$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Resources/Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^[^/]+$</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^embedded\.provisionprofile$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^version\.plist$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

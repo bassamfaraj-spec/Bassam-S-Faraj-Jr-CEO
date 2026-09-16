@@ -1,0 +1,1 @@
+../PlugIns/Swiftify.appex/Contents/Resources/Swiftify File and Project Converter.app
