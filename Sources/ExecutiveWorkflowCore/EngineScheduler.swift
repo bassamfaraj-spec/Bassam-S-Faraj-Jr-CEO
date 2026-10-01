@@ -92,7 +92,7 @@ public struct EngineSchedule: Sendable {
                 throw EngineScheduleError.cyclicDependency(id)
             }
 
-            for dependencyID in enginesByID[id, default: engines[0]].dependencies {
+            for dependencyID in enginesByID[id]?.dependencies ?? [] {
                 try visit(dependencyID)
             }
 
@@ -149,7 +149,7 @@ public actor EngineScheduler {
     }
 
     public func startEngine(_ engineID: String, at date: Date) throws {
-        guard let engine = enginesByID[engineID], let state = states[engineID] else {
+        guard enginesByID[engineID] != nil, let state = states[engineID] else {
             throw EngineScheduleError.unknownEngine(engineID)
         }
         switch state {

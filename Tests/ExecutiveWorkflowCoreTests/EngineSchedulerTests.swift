@@ -6,6 +6,10 @@ struct EngineSchedulerTests {
     private let start = Date(timeIntervalSince1970: 1_000)
     private let target = Date(timeIntervalSince1970: 2_000)
 
+    @Test func acceptsAnEmptySchedule() throws {
+        #expect(try EngineSchedule(engines: []).engines.isEmpty)
+    }
+
     @Test func dependentEngineWaitsForPredecessorRelease() async throws {
         let foundation = EngineWork(id: "foundation", title: "Foundation", plannedStart: start, releaseTarget: target)
         let feature = EngineWork(
