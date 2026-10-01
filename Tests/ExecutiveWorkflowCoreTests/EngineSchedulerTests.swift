@@ -25,7 +25,16 @@ struct EngineSchedulerTests {
         try await scheduler.startEngine("foundation", at: start)
         #expect(await scheduler.readyEngines(at: target).isEmpty)
         _ = try await scheduler.releaseEngine("foundation", at: target)
+        #expect(await scheduler.readyEngines(at: start).isEmpty)
         #expect(await scheduler.readyEngines(at: target).map(\.id) == ["feature"])
+
+        do {
+            try await scheduler.startEngine("feature", at: start)
+            #expect(Bool(false))
+        } catch let error as EngineScheduleError {
+            #expect(error == .notReady("feature"))
+        }
+        try await scheduler.startEngine("feature", at: target)
     }
 
     @Test(arguments: [

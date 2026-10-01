@@ -133,7 +133,9 @@ public actor EngineScheduler {
                     return false
                 }
                 return engine.dependencies.allSatisfy { dependencyID in
-                    if case .released? = states[dependencyID] { return true }
+                    if case let .released(releasedAt)? = states[dependencyID] {
+                        return releasedAt <= date
+                    }
                     return false
                 }
             }
