@@ -1,10 +1,14 @@
-// swift-tools-version: 6.4
+// swift-tools-version: 6.0
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 
 import PackageDescription
 
 let package = Package(
     name: "ExecutiveWorkflowCore",
+    platforms: [
+        .iOS(.v17),
+        .macOS(.v14),
+    ],
     products: [
         // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
@@ -15,18 +19,10 @@ let package = Package(
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
         // Targets can depend on other targets in this package and products from dependencies.
-        .target(
-            name: "ExecutiveWorkflowCore",
-            swiftSettings: [
-                .enableUpcomingFeature("ApproachableConcurrency"),
-            ],
-        ),
+        .target(name: "ExecutiveWorkflowCore"),
         .testTarget(
             name: "ExecutiveWorkflowCoreTests",
-            dependencies: ["ExecutiveWorkflowCore"],
-            swiftSettings: [
-                .enableUpcomingFeature("ApproachableConcurrency"),
-            ],
+            dependencies: ["ExecutiveWorkflowCore"]
         ),
     ]
 )
