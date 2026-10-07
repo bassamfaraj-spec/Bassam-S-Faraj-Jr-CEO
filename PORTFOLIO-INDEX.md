@@ -11,6 +11,7 @@ This index links the planning and design artifacts prepared October 1, 2026. Eac
 | [STORYBOARDS.md](./STORYBOARDS.md) | Sequence storyboards for the CEO daily workflow, Sentinel readiness check, and Flawless Life booking |
 | [ROADMAP.md](./ROADMAP.md) | Phased roadmap and Gantt view tied to the Master Work Register's execution order |
 | [BLUEPRINTS.md](./BLUEPRINTS.md) | Technical blueprint of the `ExecutiveWorkflowCore` Swift package and its modules |
+| [TERM-GOVERNANCE-LEDGER.md](./TERM-GOVERNANCE-LEDGER.md) | Canonical term succession flow, admissibility checks, rollout mapping, and ledger/audit trail records |
 
 ## Related existing records
 
